@@ -39,7 +39,7 @@
 
 ## Installation
 Download the Pieces for Developers Desktop App and Pieces OS:
-* For [macOS](https://docs.pieces.app/installation-getting-started/macos) 
+* For [macOS](https://docs.pieces.app/installation-getting-started/macos) 
 * For [Windows](https://docs.pieces.app/installation-getting-started/windows)
 * For [Linux](https://docs.pieces.app/installation-getting-started/linux)
 
