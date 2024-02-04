@@ -144,7 +144,7 @@ Download the Pieces for Developers Desktop App and Pieces OS:
     * [PythonSDK](https://github.com/pieces-app/pieces-os-client-sdk-for-python)  
     * [TypescriptSDK](https://github.com/pieces-app/pieces-os-client-sdk-for-python)  
     * [Simple Copilot in TS](https://github.com/pieces-app/pieces-copilot-vanilla-typescript-example)  
-    * [Example Typescript Playground](https://github.com/pieces-app/example-ts)  
+    * [Example Typescript Playground](https://github.com/pieces-app/example-typescript)  
 We would love to hear from you, you can do this by contributing to this repository!
 
 
