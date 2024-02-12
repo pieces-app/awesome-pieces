@@ -168,7 +168,7 @@ We are a small and passionate team of developers building an amazing suite of pr
 * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/pieces-save-code-from-the-web/)
 * [Edge](https://microsoftedge.microsoft.com/addons/detail/pieces-save-code-snippet/hglfimcdgonaeeobjckfdabcldfidmim)
 
-Please do star and share the repo to show your support, it would help others too!
+Please star this repo to help youself and others find valuable resources! 👍
 ---
 
 ## License
